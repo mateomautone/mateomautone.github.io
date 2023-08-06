@@ -1,0 +1,24 @@
+body {
+    background-color: #f3f9f5;
+}
+.titulo {
+    color: #75d18f;
+}
+.subtitulo{
+    color: #3b3b37;
+}
+.texto {
+    color: #5e5e57;
+}
+#foto {
+    border-radius: 50%;
+}
+#tituloprincipal {
+    color: #3ace64;
+}
+a:visited {
+    color: #75d18f;
+}
+a:hover {
+    color: #5e5e57;
+}
